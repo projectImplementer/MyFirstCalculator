@@ -22,15 +22,7 @@ public class Main {
         System.out.println("What operation will be done? ");
         operator = scanObject.next().charAt(0);   // the operator char var receives char value index of 0.
 
-
-        if (operator = scanObject.next().charAt()) {
-            answer = num1 + num2;
-            answer = num1 - num2;
-            answer = num1 * num2;
-            answer = num1 / num2;
-
-        } else {
-
+// in a case from switch we can add more operations per case, even methods.
             switch (operator) {
                 case '+':
                     answer = num1 + num2;
@@ -44,8 +36,13 @@ public class Main {
                 case '/':
                     answer = num1 / num2;
                     break;
+                case 'k':
+                    answer = num1 + num2;
+                    answer = num1 - num2;
+                    answer = num1 * num2;
+                    answer = num1 / num2;
+                    break;
             }
-        }
         System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
     }
 }

@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$USER_HOME$/IdeaProjects/MyFirstCalculator/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+            <state relative-caret-position="304">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding>
                 <element signature="e#105#106#0" expanded="true" />
                 <element signature="e#126#127#0" expanded="true" />
@@ -39,6 +39,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/../../MyFirstCalculator/MyFirstCalculator/src/Main.java" />
+        <option value="$USER_HOME$/IdeaProjects/MyFirstCalculator/src/Main.java" />
       </list>
     </option>
   </component>
@@ -76,6 +78,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bogdan.demetrescu\IdeaProjects" />
+      <recent name="C:\Users\bogdan.demetrescu\Desktop\MyFirstCalculator" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,7 +131,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951246" visible="true" weight="0.29731545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4951246" visible="true" weight="0.4100671" />
       <window_info id="Structure" order="1" sideWeight="0.5048754" side_tool="true" weight="0.3160981" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -132,7 +140,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.29144096" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.33286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.33286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51983005" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -153,10 +161,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/MyFirstCalculator/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        <state relative-caret-position="304">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding>
             <element signature="e#105#106#0" expanded="true" />
             <element signature="e#126#127#0" expanded="true" />
