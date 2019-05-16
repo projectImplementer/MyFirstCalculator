@@ -38,8 +38,11 @@ public class Main {
                     break;
                 case 'k':
                     answer = num1 + num2;
+                    System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                     answer = num1 - num2;
+                    System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                     answer = num1 * num2;
+                    System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                     answer = num1 / num2;
                     break;
             }
