@@ -1,13 +1,18 @@
+import Operations.BodyClass;
+
 import java.util.Scanner;
 
 
 public class Main {
     // Calculator
+
     public static void main(String[] args) {
-        add();
+        BodyClass glue = new BodyClass();
+        glue.body();
+        //add();
     }
 
-    public static void add() {
+    /*public static void add() {
         Integer num1;
         Integer num2;
         char operator;
@@ -38,11 +43,14 @@ public class Main {
                     break;
                 case 'k':
                     answer = num1 + num2;
+                    System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                     answer = num1 - num2;
+                    System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                     answer = num1 * num2;
+                    System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                     answer = num1 / num2;
                     break;
             }
         System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
-    }
+    } */
 }
