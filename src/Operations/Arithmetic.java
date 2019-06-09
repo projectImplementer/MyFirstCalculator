@@ -1,7 +1,7 @@
 package Operations;
 
 
-public class Addition {
+public class Arithmetic {
 
     public static void calculate(Integer num1, Integer num2) {
         double answer = 0.0;

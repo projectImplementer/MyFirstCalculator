@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class BodyClass {
 
-    public String run;
+    //public String run;
 
     public static void body() {
 
         // Objects
-        Addition adding = new Addition();
+        Arithmetic adding = new Arithmetic();
         //
 
         Integer num1;
@@ -27,22 +27,10 @@ public class BodyClass {
         operator = scanObject.next().charAt(0);   // the operator char var receives char value index of 0.
 
 // in a case from switch we can add more operations per case, even methods.
-        switch (operator) {
-            case '+':
-                answer = num1 + num2;
-                break;
-            case '-':
-                answer = num1 - num2;
-                break;
-            case '*':
-                answer = num1 * num2;
-                break;
-            case '/':
-                answer = num1 / num2;
-                break;
+       switch (operator) {
             case 'k':
-                adding.calculate();
-                System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
+                adding.calculate(num1, num2);
+                //System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                 answer = num1 - num2;
                 System.out.println(num1 + " " + operator + " " + num2 + " = " + answer);
                 answer = num1 * num2;
